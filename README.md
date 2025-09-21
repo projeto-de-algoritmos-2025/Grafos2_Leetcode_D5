@@ -5,10 +5,10 @@
 
 ## Alunas
 
-| Matrícula |        Nome Completo       |
-|:---------:|:-------------:|
-|  | David William |
-| 231026886 | Sophia Souza da Silva |
+| Matrícula |        Nome Completo         |
+|:---------:|:----------------------------:|
+| 232001649 | David William Lemos Ferreira |
+| 231026886 | Sophia Souza da Silva        |
 
 ## Definição do Trabalho
 
