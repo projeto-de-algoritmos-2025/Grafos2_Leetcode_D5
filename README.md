@@ -16,7 +16,7 @@ Para este segundo trabalho, decidimos resolver questões do leetcode.
 
 ## Linguagens utilizadas
 
-Foi utilizado linguagem C e JavaScript
+Utilizamos as linguagens C++ e C para resolução das questões.
 
 ## Questões
 
@@ -24,6 +24,7 @@ Foi utilizado linguagem C e JavaScript
 |---------|--------|
 | []() | Difícil |
 | []() | Difícil |
+| [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort) | Médio |
 | []() | Médio |
 
 

@@ -1,0 +1,26 @@
+[
+  {
+    "label": "build-debug",
+    "command": "g++",
+    "args": [
+      "-g",
+      "-std=c++20",
+      "-fsanitize=undefined",
+      "-fno-sanitize-recover",
+      "-Wall",
+      "-Wextra",
+      "-Wshadow",
+      "-Wconversion",
+      // "-Wduplicated-cond",
+      "-Winvalid-pch",
+      "-Wno-sign-compare",
+      "-Wno-sign-conversion",
+      "-Dcroquete",
+      "-D_GLIBCXX_ASSERTIONS",
+      // "-fmax-errors=1",
+      "${ZED_DIRNAME}/${ZED_FILENAME}",
+      "-o",
+      "${ZED_DIRNAME}/${ZED_STEM} && ${ZED_DIRNAME}/${ZED_STEM}"
+    ]
+  }
+]
