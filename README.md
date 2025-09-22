@@ -22,17 +22,17 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 
 | Questão | Nível  |
 |---------|--------|
-| []() | Difícil |
-| [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) | Difícil |
+| [2931. Maximum Spending After Buying Items](https://leetcode.com/problems/maximum-spending-after-buying-items) | Difícil |
+| [1489. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) | Difícil |
 | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort) | Médio |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Médio |
 
 
 ## Screenshots
 
-### Exercício 01 - Nome
+### Exercício 01 - Maximum Spending After Buying Items
 
-![Exercício 1 - Nome]()
+![Exercício 1 - Maximum Spending After Buying Items](resources/2931.png)
 
 ### Exercício 02 - Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
 
