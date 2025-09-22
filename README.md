@@ -16,7 +16,7 @@ Para este segundo trabalho, decidimos resolver questões do leetcode.
 
 ## Linguagens utilizadas
 
-Utilizamos as linguagens C++ e C para resolução das questões.
+Utilizamos as linguagens C++ e Python para resolução das questões.
 
 ## Questões
 
@@ -25,7 +25,7 @@ Utilizamos as linguagens C++ e C para resolução das questões.
 | []() | Difícil |
 | []() | Difícil |
 | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort) | Médio |
-| []() | Médio |
+| [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Médio |
 
 
 ## Screenshots
@@ -38,10 +38,13 @@ Utilizamos as linguagens C++ e C para resolução das questões.
 
 ![Exercício 2]()
 
-### Exercício 03 - Nome
+### Exercício 03 - Path With Minimum Effort
 
-![Exercício 3 - Nome]()
+![Exercício 3 - Path With Minimum Effort](resources/1631.png)
 
+### Exercício 04 - Top K Frequent Elements
+
+![Exercício 4 - Top K Frequent Elements](resources/347.png)
 
 ## Vídeo de apresentação do Trabalho 1
 [Vídeo]()
