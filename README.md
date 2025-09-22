@@ -3,7 +3,7 @@
 **Número do trabalho:** 2 <br>
 **Conteúdo: Grafos 2**
 
-## Alunas
+## Discentes
 
 | Matrícula |        Nome Completo         |
 |:---------:|:----------------------------:|
@@ -23,7 +23,7 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 | Questão | Nível  |
 |---------|--------|
 | []() | Difícil |
-| []() | Difícil |
+| [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) | Difícil |
 | [1631. Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort) | Médio |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Médio |
 
@@ -34,9 +34,9 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 
 ![Exercício 1 - Nome]()
 
-### Exercício 02 - Nome
+### Exercício 02 - Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree
 
-![Exercício 2]()
+![Exercício 2 - Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](resources/1489.png)
 
 ### Exercício 03 - Path With Minimum Effort
 

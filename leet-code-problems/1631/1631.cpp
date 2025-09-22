@@ -73,9 +73,10 @@ public:
 };
 
 void solve() {
+    Solution sol;
     vector<vector<int>> heights = {{1,2,2},{3,8,2},{5,3,5}};
 
-    double result = minimumEffortPath(heights);
+    double result = sol.minimumEffortPath(heights);
 
     cout << result << "\n";
 }
