@@ -47,4 +47,6 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 ![Exercício 4 - Top K Frequent Elements](resources/347.png)
 
 ## Vídeo de apresentação do Trabalho 1
-[Vídeo]()
+
+### Vídeo do David (resolução do exercícios 2 e 3)
+[Vídeo - Resolução exerccícios 2 e 3](https://vimeo.com/1121006374)
