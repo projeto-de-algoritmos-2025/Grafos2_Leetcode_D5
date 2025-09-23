@@ -48,5 +48,4 @@ Utilizamos as linguagens C++ e Python para resolução das questões.
 
 ## Vídeo de apresentação do Trabalho 1
 
-### Vídeo do David (resolução do exercícios 2 e 3)
-[Vídeo - Resolução exerccícios 2 e 3](https://vimeo.com/1121006374)
+[Vídeo](https://vimeo.com/1121031914)
